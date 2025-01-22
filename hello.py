@@ -1,4 +1,4 @@
 print("hello world")
-a, b=0, 0
-a=min(b, c)+2
+a, b, c=0, 0, 0
+a=max(b, c)+1
 
